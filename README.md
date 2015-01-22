@@ -1,2 +1,7 @@
-# Hornet
-Open Design for Hornet
+Product: Hornet, January 2015
+
+Designer: Dick Lowe
+
+Support:  http://forums.obrary.com/category/designs/hornet
+
+Distributed by:  Obrary, Inc.  http://obrary.com - Making it easy to make
